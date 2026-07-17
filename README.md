@@ -6,7 +6,7 @@ Production-ready FastAPI template optimized for AI-assisted development and Depl
 
 Deploy this production-ready template directly to Deployxa Cloud.
 
-[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https%3A%2F%2Fgithub.com%2Fdeployxa-templates%2Fdeployxa-fastapi&template=fastapi&framework=fastapi&branch=main&name=deployxa-fastapi&runtime=Python+3.11&package_manager=pip&build_command=pip+install+-r+requirements.txt&start_command=uvicorn+main%3Aapp+--host+0.0.0.0+--port+8000&dockerfile=Dockerfile&version=1.0.0&build_time=50s&image_size=310MB&env_vars=PYTHONENV%2CPORT%2CDATABASE_URL)
+[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https://github.com/deployxa-templates/deployxa-fastapi)
 
 ### Or deploy using the CLI
 
